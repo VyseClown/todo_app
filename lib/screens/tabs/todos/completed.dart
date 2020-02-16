@@ -1,7 +1,8 @@
-import 'package:app_boilerplate/components/add_task.dart';
-import 'package:app_boilerplate/components/todo_item_tile.dart';
-import 'package:app_boilerplate/data/todo_list.dart';
 import 'package:flutter/material.dart';
+
+import '../../../components/add_task.dart';
+import '../../../components/todo_item_tile.dart';
+import '../../../data/todo_list.dart';
 
 class Completed extends StatefulWidget {
   const Completed({Key key}) : super(key: key);

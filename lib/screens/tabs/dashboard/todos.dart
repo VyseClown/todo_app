@@ -1,7 +1,8 @@
-import 'package:app_boilerplate/screens/tabs/todos/active.dart';
-import 'package:app_boilerplate/screens/tabs/todos/all.dart';
-import 'package:app_boilerplate/screens/tabs/todos/completed.dart';
 import 'package:flutter/material.dart';
+
+import '../todos/active.dart';
+import '../todos/all.dart';
+import '../todos/completed.dart';
 
 class Todos extends StatefulWidget {
   Todos({Key key}) : super(key: key);

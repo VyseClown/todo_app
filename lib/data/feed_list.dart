@@ -1,4 +1,4 @@
-import 'package:app_boilerplate/model/feed_item.dart';
+import '../model/feed_item.dart';
 
 class FeedList {
   List<FeedItem> list = [

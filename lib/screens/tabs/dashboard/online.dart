@@ -1,5 +1,6 @@
-import 'package:app_boilerplate/data/online_list.dart';
 import 'package:flutter/material.dart';
+
+import '../../../data/online_list.dart';
 
 class Online extends StatelessWidget {
   const Online({Key key}) : super(key: key);

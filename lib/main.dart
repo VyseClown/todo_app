@@ -1,8 +1,9 @@
-import 'package:app_boilerplate/screens/dashboard.dart';
-import 'package:app_boilerplate/screens/login.dart';
-import 'package:app_boilerplate/screens/signup.dart';
-import 'package:app_boilerplate/screens/splash.dart';
 import 'package:flutter/material.dart';
+
+import 'screens/dashboard.dart';
+import 'screens/login.dart';
+import 'screens/signup.dart';
+import 'screens/splash.dart';
 
 void main() => runApp(MyApp());
 

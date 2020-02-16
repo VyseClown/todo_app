@@ -1,4 +1,4 @@
-import 'package:app_boilerplate/services/shared_preferences_service.dart';
+import '../services/shared_preferences_service.dart';
 import 'package:flutter/material.dart';
 
 class Splash extends StatelessWidget {

@@ -1,7 +1,8 @@
-import 'package:app_boilerplate/components/custom_button.dart';
-import 'package:app_boilerplate/components/utils.dart';
-import 'package:app_boilerplate/services/auth.dart';
+import '../components/utils.dart';
+import '../services/auth.dart';
 import 'package:flutter/material.dart';
+
+import '../components/custom_button.dart';
 
 class Signup extends StatefulWidget {
   Signup({Key key}) : super(key: key);

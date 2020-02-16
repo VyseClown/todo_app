@@ -1,7 +1,8 @@
-import 'package:app_boilerplate/components/custom_button.dart';
-import 'package:app_boilerplate/components/feed_tile.dart';
-import 'package:app_boilerplate/data/feed_list.dart';
 import 'package:flutter/material.dart';
+
+import '../../../components/custom_button.dart';
+import '../../../components/feed_tile.dart';
+import '../../../data/feed_list.dart';
 
 class Feeds extends StatefulWidget {
   const Feeds({Key key}) : super(key: key);

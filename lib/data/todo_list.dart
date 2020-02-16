@@ -1,4 +1,4 @@
-import 'package:app_boilerplate/model/todo_item.dart';
+import '../model/todo_item.dart';
 
 class TodoList {
   List<TodoItem> list = [];

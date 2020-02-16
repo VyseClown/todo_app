@@ -1,8 +1,9 @@
-import 'package:app_boilerplate/components/custom_button.dart';
-import 'package:app_boilerplate/components/utils.dart';
-import 'package:app_boilerplate/services/auth.dart';
-import 'package:app_boilerplate/services/shared_preferences_service.dart';
 import 'package:flutter/material.dart';
+
+import '../components/custom_button.dart';
+import '../components/utils.dart';
+import '../services/auth.dart';
+import '../services/shared_preferences_service.dart';
 
 class Login extends StatefulWidget {
   Login({Key key}) : super(key: key);

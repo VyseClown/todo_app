@@ -1,8 +1,9 @@
-import 'package:app_boilerplate/screens/tabs/dashboard/feeds.dart';
-import 'package:app_boilerplate/screens/tabs/dashboard/online.dart';
-import 'package:app_boilerplate/screens/tabs/dashboard/todos.dart';
-import 'package:app_boilerplate/services/shared_preferences_service.dart';
 import 'package:flutter/material.dart';
+
+import '../services/shared_preferences_service.dart';
+import 'tabs/dashboard/feeds.dart';
+import 'tabs/dashboard/online.dart';
+import 'tabs/dashboard/todos.dart';
 
 class Dashboard extends StatelessWidget {
   const Dashboard({Key key}) : super(key: key);
